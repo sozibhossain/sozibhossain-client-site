@@ -1,0 +1,25 @@
+.registration-area{
+    padding: 20px;
+    margin-top: 50px;
+}
+.registration-area input{
+    display: block;
+    width: 400px;
+    margin-top: 5px;
+}
+.Already-have-an-account-btn{
+    border: none;
+    background-color: #fff;
+    color: blue;
+}
+
+.Googole-SignUp{
+    border: none;
+    width: 400px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+}

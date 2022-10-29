@@ -1,0 +1,49 @@
+/* create-post-area */
+.create-post-area{
+    background-color: #f0f2f5;
+    padding: 20px;
+    border-radius: 5px;
+}
+.user-icon{
+    width: 40px;
+    height: 40px;
+}
+.create-post-btn{
+    width: 530px;
+    margin-left: 10px;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+    border-radius: 25px;
+}
+
+.create-post-LPF{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.create-post-LPF button{
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(201, 193, 193, 0);
+}
+.create-post-Live-vedio-icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: rgb(196, 21, 21);
+}
+.create-post-Photovideo-icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: #45bd62;
+}
+.create-post-FeelingActivity-icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: #f7b928;
+}
+/* create-post-area end */

@@ -1,0 +1,26 @@
+.post-area{
+    background-color: #f0f2f5;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+.post-Close-btn{
+    border: none;
+    margin-top: 10px;
+}
+.post-text{
+    margin-top: 10px;
+}
+.post-like-comment-share-area{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.post-like-comment-share-area span{
+    font-size: 13px;
+    margin-left: 5px;
+}
